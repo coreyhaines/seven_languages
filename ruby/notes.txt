@@ -1,1 +1,20 @@
 Notes for Ruby Chapter
+
+Created in 1993.
+
+Interpreted, object-oriented, dynamically-typed languages.
+
+combination of Lisp, Smalltalk and Perl.
+
+Programming model
+
+pure object-oriented: everything is an object.
+true and false are first-class objects.
+
+while/until still are alien to me in Ruby. I haven't used them in a long time; I never really used them extensively.
+
+&& and || short-circuit
+& and | don't
+
+
+
