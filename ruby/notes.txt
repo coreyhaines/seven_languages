@@ -17,4 +17,6 @@ while/until still are alien to me in Ruby. I haven't used them in a long time; I
 & and | don't
 
 
+HAHA! Ruby is a block party!
+
 
